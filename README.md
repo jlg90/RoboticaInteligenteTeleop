@@ -1,1 +1,1 @@
-# RoboticaInteligenteTeleop
+Para la ejecuición correcta del ćodigo incluir los scripts dados en la carpeta de robotica_inteligente/scripts, también el .launch proporcionado por la práctica en la carpeta robotica_inteligente/launch, lanzarlos todos con rosrun y roslaunch.
